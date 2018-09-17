@@ -9,4 +9,4 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   }
   function accessElementInArray (array, index) {
   }
-  function
+  function destructivelyRemoveElementFromBeginningOfArray
