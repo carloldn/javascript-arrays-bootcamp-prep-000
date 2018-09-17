@@ -11,4 +11,6 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   }
   function destructivelyRemoveElementFromBeginningOfArray (array){
   }
-  
+  function removeElementFromEndOfArray(chocolateBars){
+  return chocolateBars.slice(0, chocolateBars.length - 1);
+}
